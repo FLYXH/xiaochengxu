@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/about/about",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "寂寞旅行与梧桐树下",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/home/home",
+      "text": "不要",
+      "iconPath": "images/1164443.png",
+      "selectedIconPath": "images/1226632.png"
+    },
+    {
+      "pagePath": "pages/about/about",
+      "text": "停",
+      "iconPath": "images/547462.png",
+      "selectedIconPath": "images/1226632.png"
+    }]
+  },
+  "sitemapLocation": "sitemap.json"
+}

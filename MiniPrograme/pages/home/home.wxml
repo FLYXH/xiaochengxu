@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+<text>我的第一个小程序页面</text>
+<button bindtap="dianji">点击</button>
+<view>我的年龄:{{age}}</view>
+<button size="mini" plain>默认</button>
+<button  size="mini" loading="true" hover-class="press">加载中***</button>
+<view>{{nowTime}}</view>
+<button size="mini" bindtap="gb">更改颜色</button>
+<view class='{{isRed?"jm":""}}'>寂寞旅行</view>

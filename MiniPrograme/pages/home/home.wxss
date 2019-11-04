@@ -1,0 +1,8 @@
+/* pages/home/home.wxss */
+.press{
+  background-color: red;
+  color: white;
+}
+.jm{
+  color: red;
+}
